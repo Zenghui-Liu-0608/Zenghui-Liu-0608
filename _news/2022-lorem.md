@@ -1,4 +1,4 @@
 ---
-title: Lorem ipsum sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-date: 2022-01-12 00:01:00 +0800
+title: Zenghui has been admitted to the College of Future Technology of Tianjin University without examination and will work as a research assistant in the ATSI research group on the risk of infection in waiting rooms. 
+date: 2022-09-28 14:14:00 +0800
 ---
