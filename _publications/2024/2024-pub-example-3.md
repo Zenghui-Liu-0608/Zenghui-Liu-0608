@@ -9,7 +9,7 @@ abstract: >-
 
 cover:          /assets/images/covers/cover3.jpg
 authors:
-  - GANG Liu#,Zenghui Liu#,Guanhua Qu*,Lei Ren*.
+  - GANG Liu#,Zenghui Liu#,Guanhua Qu*,Lei Ren*,Ming Yan.
 links:
   Paper: https://www.sciencedirect.com/science/article/pii/S0957582024012758?via%3Dihub
 ---
